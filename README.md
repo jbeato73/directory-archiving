@@ -1,4 +1,4 @@
-### 2. Repository: `jbeato73/directory-archiving`
+
 **Goal:** Demonstrate your ability to manage large-scale file systems (like the 4,800 ATMs you managed at BoA).
 
 ```markdown
